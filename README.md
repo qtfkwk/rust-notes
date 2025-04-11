@@ -1,1 +1,1 @@
-# rust-notes
+[Wiki](wiki)
